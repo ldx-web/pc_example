@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Articlespider/.idea/Articlespider.iml" filepath="$PROJECT_DIR$/../../Articlespider/.idea/Articlespider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../LCSpider/.idea/LCSpider.iml" filepath="$PROJECT_DIR$/../../LCSpider/.idea/LCSpider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PycharmProjects/.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../../PycharmProjects/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Tencent/.idea/Tencent.iml" filepath="$PROJECT_DIR$/../../Tencent/.idea/Tencent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/alibaba.iml" filepath="$PROJECT_DIR$/.idea/alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../baidu/.idea/baidu.iml" filepath="$PROJECT_DIR$/../../baidu/.idea/baidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../bytedance/.idea/bytedance.iml" filepath="$PROJECT_DIR$/../../bytedance/.idea/bytedance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cnjcSpider/.idea/cnjcSpider.iml" filepath="$PROJECT_DIR$/../../cnjcSpider/.idea/cnjcSpider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../jd/.idea/jd.iml" filepath="$PROJECT_DIR$/../../jd/.idea/jd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../kuaishou/.idea/kuaishou.iml" filepath="$PROJECT_DIR$/../../kuaishou/.idea/kuaishou.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Django/lx/.idea/lx.iml" filepath="$USER_HOME$/PycharmProjects/Django/lx/.idea/lx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../meituan/.idea/meituan.iml" filepath="$PROJECT_DIR$/../../meituan/.idea/meituan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tieba/.idea/tieba.iml" filepath="$PROJECT_DIR$/../../tieba/.idea/tieba.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Django/untitled/.idea/untitled.iml" filepath="$USER_HOME$/PycharmProjects/Django/untitled/.idea/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ximalaya/.idea/ximalaya.iml" filepath="$PROJECT_DIR$/../../ximalaya/.idea/ximalaya.iml" />
+    </modules>
+  </component>
+</project>
